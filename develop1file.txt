@@ -1,0 +1,4 @@
+s is a new file:wq
+
+:wq
+
